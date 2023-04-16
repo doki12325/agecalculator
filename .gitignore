@@ -12,7 +12,13 @@ dist
 dist-ssr
 *.local
 
-/dist
+/public
+/src
+/index.html
+/package-lock.json
+/package.json
+/Preview.png
+/vite.config.js
 
 # Editor directories and files
 .vscode/*
